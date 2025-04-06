@@ -18,7 +18,7 @@ This is a Dash application for visualizing cryptocurrency data. Follow the instr
 ## Project Overview
 The Cryptocurrency Dashboard project is an AI-driven application designed to analyze and visualize trading data for various cryptocurrencies. It incorporates advanced machine learning models and technical indicators to provide users with insights and predictions.
 
-Demo video here: [https://drive.google.com/drive/folders/1XpqXTdwXp8Vbwwzaqk7UhYqVg2_CVcLY?usp=drive_link](https://drive.google.com/drive/folders/1XpqXTdwXp8Vbwwzaqk7UhYqVg2_CVcLY?usp=drive_link)
+Demo video here: [https://youtu.be/UmmtKiGm5oI?si=idZxgNnR8w20eIxY](https://youtu.be/UmmtKiGm5oI?si=idZxgNnR8w20eIxY)
 
 ## Tech Stack
 - Plotly Dash, Bootstrap
